@@ -9,3 +9,8 @@ datetime
 time
 apache-airflow-providers-http
 apache-airflow-providers-postgres
+lxml
+pytest
+os
+sys
+pathlib
